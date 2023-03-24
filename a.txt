@@ -1,2 +1,3 @@
 This is an a txt file
 New line for step G
+New data for step O
